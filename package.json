@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator in node.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doris-003/calculator"
+  },
+  "author": "Doris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/re-gis/re-gis_Calc/readme"
+  },
+  "homepage": "https://github.com/Doris-003/calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
